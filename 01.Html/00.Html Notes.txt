@@ -1,0 +1,179 @@
+
+Tutor Joes Channel :
+
+Html :
+     Html Means Skeliton Of Web Design...
+
+Two Types of tag in html
+
+Example : 
+1.<P></P> ->  Container Tag
+2.<br><hr><img> -> Stand Alone Tag	 
+
+
+Html Topics :
+
+Heading -> h1 To h6 
+Paragraph -> <p>
+Tag vs Element -> <p> Hello Html </p>
+Align -> Left,Right,Center,Justify
+Break -> <br>
+Horizontal -> <hr>
+
+
+01.Text Formating Tags :
+
+1.1 Bold -> <b>
+1.2 Italic -> <i>
+1.3 Strike -> <strike>
+1.4  Delete -> <del>
+1.5 Small -> <small>
+1.6 Monospace -> <tt>
+1.7 Underline -> <u>
+1.8 Superscript -> <sup>
+1.9 Subscript -> <sub>
+1.10 Large -> <big>
+1.11  Insert -> <ins>
+
+
+02. Phrase Tags :
+
+2.1 Emphasized -> <emp>
+2.2 Marked -> <mark>
+2.3 Strong -> <strong>
+2.4 Abbreviation -> <abbr>
+2.5 Acronym -> <acronym>
+2.6 Text Direction -> 
+2.7 Special Term -> 
+2.8 Blockqotation -> <blockquote>
+2.9 Quatation -> <q>
+2.10 Citation -> <cite>
+2.11 Computer Code -> <Code>
+2.12 Keyboard -> <kbd>
+2.13 Program Ouput -> <samp>
+2.14 Address -> <address>
+2.15  Preservative => <pre>
+
+
+03. Font Tag : 
+
+3.1 <font space="arial"> Hai </font>
+3.2 <font size='2'> Hai </font>
+3.3 <font color="blue"> Hai </font>
+
+
+04.Image Tag :
+
+4.1 <img src='images/pic.jpg' alt='My Image'> 
+4.2 <img src='images/pic.jpg' height="200px" width="200px">
+4.3 Image Border
+4.4 Image Alignment
+4.5 Figcaption
+
+
+05.Table Tag  :
+
+5.1 tr -> Table Row
+5.2 th -> Table Head
+5.3 td -> Table Data
+5.4 Cellpadding = inside space
+5.5 Cellspacing = outside space 
+5.6 Rowspan
+5.7 Colspan
+5.8 Header,
+
+<table border="2" cellpadding="10px" >
+<tr>
+    <th></th>
+</tr>
+
+<tr>
+    <td></td>
+</tr>
+</table>
+
+
+06.List Tag :
+
+6.1 Order List -> 5 Types
+
+<ol type="1">
+<li></li>
+<li></li>
+<li></li>
+</ol>
+
+6.2 Unorder List -> 4 Types 
+
+<ul type="square">
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
+6.3 Description List - > 3 Types
+ 
+ dl -> Description List
+ dt -> Description Term
+ dd -> Description 
+<dl>
+    <dt>Html :</dt>
+	<dd>Hyper Text Markup Language</dd>
+</dl>
+
+
+07.Marquee :
+
+7.1 Marquee -> <marquee bgcolor="blue" width=""300px> </marquee>
+7.2 Behavior : Scroll, Slide, Alternate
+7.3 Direction : Left, Right, Top, Bottom
+7.4 Scrollamount="10" -> Move Fast
+7.5 scrolldelay="1" -> slow
+7.6 loop 
+
+
+08.Anchor Tag :
+
+8.1 <a href="#" > This is a Link</a>
+8.2 target="self" -> same page Loading
+8.3 target="_blank" -> new page Loading
+8.4 <iframe src="#embed " height="250px" width="250px">
+8.5 pdf Download
+8.6.Email Link
+
+
+09.Form Element :
+
+9.1 fieldset -> Border Line
+9.2 legent -> Line top left
+
+<form>
+
+<label>Name :</label>
+<input type="name">
+
+</form>
+
+
+10.Command
+
+10.1 Single Line :
+            <!-- Hello Html -->
+10.2 Multiline :
+        <!--
+            Hai
+            Html
+                 -->			
+
+
+11.Block :
+
+11.1 Inline 
+11.2 Div 
+
+
+12.Video And Audio :
+
+13.Colors And Background Color
+
+14.Embed Multimedia
